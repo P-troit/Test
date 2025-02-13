@@ -1,0 +1,5 @@
+Slide 2: What is SELinux?
+SELinux stands for Security-Enhanced Linux.
+It is a security module for Linux operating systems.
+SELinux provides mandatory access control (MAC) to enforce security policies.
+Key Point: SELinux helps protect your system from unauthorized access by controlling how programs and users interact with files and resources.
